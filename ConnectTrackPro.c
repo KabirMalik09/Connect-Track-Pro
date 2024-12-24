@@ -324,7 +324,7 @@ int main() {
             break;
             default: printf("Invalid choice! Please try again.\n");
         }
-    } while (choice != 12);
+    } while (choice != 14);
 
     return 0;
 }
